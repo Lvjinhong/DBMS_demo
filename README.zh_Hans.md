@@ -1,8 +1,7 @@
 <p align="center">
-![Alt text](image-1.png)
-
+<img width=300px height=300px src="https://github.com/Lvjinhong/DBMS_demo/assets/96970081/7b414595-9102-43e4-b94f-fd40caec3514"/>
 </p>
-<h2 align="center">Flypen</h2>
+<h2 align="center">汽车配件销售管理系统</h2>
 <p align="center">
   <!-- <a href="https://travis-ci.com/github/ybygjylj/habits-apriori/"><img src="https://travis-ci.com/ybygjylj/habits-apriori.svg?branch=master" alt="Build Status"></a> -->
   <a href="https://raw.githubusercontent.com/ybygjylj/habits-apriori/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="LICENSE"></a>
