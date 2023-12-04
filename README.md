@@ -9,7 +9,7 @@
    <a href="https://github.com/topics/cpp"><img src="https://img.shields.io/badge/language-vue-blue.svg" alt="languange"></a>
   <!-- <a href="https://gitter.im/habits-apriori/community"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="chat"></a> -->
 </p>
-
+*Read in another language:  [English](README.md), [简体中文](README.zh_Hans.md)*
 
 ### Database System Course Design
 ### Introduction
