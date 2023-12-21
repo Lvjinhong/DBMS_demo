@@ -46,6 +46,12 @@ npm install
 npm run serve
 ```
 
+### Innovation Highlights
+
+Regarding database design, our system distinctly stands out from conventional automotive parts management systems. We've tailored our design specifically towards sales, ensuring a professional and organized approach. This includes strategic module decoupling and the introduction of a logistics information table, enabling continuous tracking of sales orders, while maintaining efficient management of standard modules such as employees, departments, and warehouses.
+
+From a technological perspective, we've adopted a contemporary tech stack, integrating cutting-edge front-end technologies like Vue and Element UI. Additionally, we've incorporated large models and prompt learning to enable sophisticated database analysis and management, resembling an intelligent agent. This approach also supports features like automated report generation, significantly elevating the system's efficiency and smart capabilities.
+
 ### Contributing
 Please refer to the Github contribution guide and submit PRs. We take each PR seriously and welcome active participation in the project!
 
